@@ -1,0 +1,24 @@
+{
+    "name": "frontend-challenge-2021-julia-lopes",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "gulp": "^4.0.2"
+    },
+    "devDependencies": {
+        "gulp-build": "^0.5.3",
+        "gulp-concat": "^2.6.1",
+        "gulp-img": "0.0.0",
+        "gulp-less": "^4.0.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@gitlab.com:bycom/external/frontend-challenge-2021-julia-lopes.git"
+    },
+    "author": "",
+    "license": "ISC"
+}

@@ -1,0 +1,104 @@
+#group37 {
+    width: 482px;
+    height: 347px;
+    margin-top: 70px;
+}
+
+#vanguardPr {
+    width: 362px;
+    height: 144px;
+    color: #766a62;
+    font-family: 'Poppins';
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 48px;
+}
+
+#itsportfol {
+    width: 482px;
+    height: 96px;
+    color: #918780;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+}
+
+#group {
+    width: 219px;
+    height: 48px;
+}
+
+#discovera {
+    color: #766a62;
+    font-family: "Poppins";
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+#rectanglemain {
+    width: 219px;
+    height: 48px;
+    border-radius: 0.5px;
+    border: dashed 1px #766a62;
+    background: #fffcfa;
+}
+
+#group91 {
+    width: 482px;
+    height: 444px;
+}
+
+#group3 {
+    width: 482px;
+    height: 444px;
+    position: absolute;
+}
+
+#image1 {
+    width: 481.83px;
+    height: 266.34px;
+}
+
+#image2 {
+    width: 279.38px;
+    height: 166.12px;
+}
+
+.main-container {
+    background-repeat: no-repeat;
+    justify-content: space-between;
+    display: flex;
+}
+
+#fill1 {
+    position: absolute;
+    margin-top: 92px;
+}
+
+#group40 {
+    width: 73px;
+    height: 73px;
+    position: absolute;
+    right: 34%;
+    bottom: 54%;
+}
+
+#clip30 {
+    width: 92px;
+    height: 46.96px;
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+    margin: 15px;
+}
+
+#mainpos {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+}

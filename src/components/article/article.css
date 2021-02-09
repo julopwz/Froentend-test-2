@@ -1,0 +1,161 @@
+#upstayisap {
+    opacity: 0.90000004;
+    width: 379px;
+    height: 144px;
+    color: #766a62;
+    font-family: "Poppins";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#upgradeyou {
+    width: 1199px;
+    height: 48px;
+    color: #766a62;
+    font-family: "Poppins";
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 48px;
+    text-align: center;
+}
+
+#download {
+    width: 256px;
+    height: 72px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#grouparticle {
+    width: 379px;
+    height: 245px;
+}
+
+#eXPLOREUPS {
+    width: 113px;
+    height: 18px;
+    color: #766a62;
+    font-family: "Poppins";
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+#rectangle9 {
+    width: 185px;
+    height: 48px;
+    border-radius: 0.5px;
+    border: dashed 1px #766a62;
+}
+
+#group38 {
+    width: 379px;
+    height: 246px;
+}
+
+#bitmap {
+    width: 379px;
+    height: 204px;
+}
+
+#mask {
+    width: 379px;
+    height: 204px;
+    background: #d8d8d8;
+}
+
+#bitmap {
+    width: 381px;
+    height: 209px;
+}
+
+#accommodat {
+    opacity: 0.7;
+    width: 126px;
+    height: 18px;
+    color: #766a62;
+    font-family: "Poppins";
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+#aliggroup {
+    width: 794px;
+    height: 261px;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+}
+
+.rectanglerow {
+    width: 1199px;
+    height: 376px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    align-content: space-between;
+}
+
+#details {
+    opacity: 0.7;
+    width: 54px;
+    height: 18px;
+    color: #766a62;
+    font-family: "Poppins";
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+#group444 {
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.rectanglerow {
+    width: 1199px;
+    height: 308px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#buttonarticle {
+    width: 185px;
+    height: 48px;
+    border-radius: 0.5px;
+    border: dashed 1px #766a62;
+    background: #fffcfa;
+}
+
+#exploreups {
+    width: 185px;
+    height: 48px;
+    color: #766a62;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.group38center {
+    justify-content: center;
+    width: 381px;
+    height: 51px;
+    display: flex;
+}

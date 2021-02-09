@@ -1,0 +1,178 @@
+#group12 {
+    width: 1440px;
+    height: 324px;
+    background: #f8f4f2;
+    box-shadow: inset 0px 1px rgba(118, 106, 98, 0.1);
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#group31 {
+    width: 1264px;
+    height: 131px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.stayintouc {
+    width: 415.04px;
+    height: 84px;
+    color: #766a62;
+    font-family: "Poppins";
+    font-size: 28px;
+    font-weight: 300;
+    line-height: 42px;
+}
+
+.group22 {
+    width: 341.3px;
+    height: 59px;
+}
+
+#nAME {
+    opacity: 0.7;
+    width: 41.08px;
+    height: 18px;
+    color: #766a62;
+    font-family: "Poppins";
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+#eMAIL {
+    opacity: 0.7;
+    width: 42.14px;
+    height: 18px;
+    color: #766a62;
+    font-family: "Poppins";
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+#yournamehe {
+    width: 134.84px;
+    height: 24px;
+    color: #918780;
+    font-family: "Poppins";
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+    width: 341.3px;
+}
+
+#youremaila {
+    width: 162.22px;
+    height: 24px;
+    color: #918780;
+    font-family: "Poppins";
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+    width: 341.3px;
+}
+
+#sUBSCRIBE {
+    color: #f8f4f2;
+    font-family: "Poppins";
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+#sub {
+    width: 840px;
+    height: 131px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#butsub {
+    width: 189.61px;
+    height: 48px;
+    background: #766a62;
+    appearance: none;
+    outline: none;
+}
+
+#group4 {
+    width: 388.71px;
+    height: 32px;
+}
+
+#bytickingt {
+    width: 350.78px;
+    height: 32px;
+    color: #b1a197;
+    font-family: "Poppins";
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.checkbox {
+    width: 25.28px;
+    height: 24px;
+    border: dashed 1px #766a62;
+    margin: 0%;
+}
+
+#checandbut {
+    width: 812px;
+    height: 131px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+#sub1 {
+    width: 812px;
+    height: 131px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#yournamehe,
+#youremaila {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    border: none;
+    border-bottom: 1px solid #766a62;
+    background-color: #f8f4f2;
+    padding: 10px;
+    outline: none;
+}
+
+input:focus~label,
+input:valid~label {
+    transform: translateY(-24px);
+    font-size: 0.8em;
+    letter-spacing: 0.1em;
+}
+
+.input span.error {
+    display: flex;
+    padding: 0;
+    background-color: rgba(255, 0, 0, 0.2);
+}
+
+.input span.error.active {
+    border: 1px solid red;
+    padding: 0.4em;
+}

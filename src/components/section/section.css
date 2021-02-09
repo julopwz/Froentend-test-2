@@ -1,0 +1,73 @@
+#group333 {
+    width: 712px;
+    height: 435px;
+    justify-content: center;
+    display: flex;
+}
+
+.officialLa {
+    width: 481px;
+    height: 66px;
+    color: #766a62;
+    font-family: 'Poppins', sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 48px;
+    margin: 0%;
+}
+
+#officialLa {
+    width: 278px;
+    height: 66px;
+}
+
+.officialLe {
+    color: #766a62;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 48px;
+}
+
+#modernitya {
+    width: 482px;
+    height: 72px;
+    color: #918780;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+}
+
+#readmore {
+    color: #766a62;
+    font-family: "Poppins";
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+#rectanglesection {
+    width: 149px;
+    height: 48px;
+    border-radius: 0.5px;
+    border: dashed 1px #766a62;
+    background: #fffcfa;
+}
+
+#group11 {
+    width: 149px;
+    height: 48px;
+}
+
+#group37section {
+    width: 482px;
+    height: 294px;
+    margin: 80px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
